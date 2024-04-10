@@ -164,7 +164,7 @@ const App: React.FC = () => {
       key: count,
       name: `Edward King ${count}`,
       age: '32',
-      address: `London, Park Lane no. ${count}`,
+      address: `群组1 ${count}`,
     };
     setDataSource([...dataSource, newData]);
     setCount(count + 1);
