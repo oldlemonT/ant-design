@@ -142,11 +142,7 @@ const App: React.FC = () => {
     {
       title: 'age',
       dataIndex: 'age',
-    },
-    {
-      title: 'address',
-      dataIndex: 'address',
-    },
+    }
     {
       title: 'operation',
       dataIndex: 'operation',
